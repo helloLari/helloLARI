@@ -7,8 +7,9 @@
   <img align="center" alt="Lari-React" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lari-HTML" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lari-CSS" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lari-Figma" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   
-  <img align="right" alt="Lari-yoda" height="230" width="220"  src="https://media.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif">
+  <img align="right" alt="Lari-yoda" height="230" width="220"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
   
   ##
