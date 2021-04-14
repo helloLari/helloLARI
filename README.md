@@ -4,7 +4,7 @@
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=helloLari&layout=compact&langs_count=8&theme=dracula"/>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lari-Js" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
+  <img align="center" alt="Lari-React" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lari-HTML" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lari-CSS" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
@@ -19,3 +19,6 @@
   <a href="https://twitter.com/hello_laris" target="_blank"><img src="https://img.shields.io/badge/-twitter-%23333?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/lari.rsousa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+
+
