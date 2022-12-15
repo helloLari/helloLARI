@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Larisse Rodrigues
+## Hi, I'm Larisse!
 <a href="https://github.com/helloLari">
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=helloLari&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=helloLari&layout=compact&langs_count=8&theme=dracula"/>
